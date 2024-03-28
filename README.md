@@ -15,7 +15,7 @@ The dataset we focused on is a subset of the “Amazon Review Data (2018)” pub
 
 
 # Machine Learning
-We propose the usage of multiple supervised machine-learning algorithms such as Logistic Regression, Support Vector Machine, XGBoost, and Random Forest. The proposed model workflow diagram is shown in Figure 1 for our project, and we will also perform text processing using techniques like TFIDF, Stemming, Lemmatization, Stopford removal, etc., on the raw review text to generate features.
+We propose the usage of multiple supervised machine-learning algorithms such as Logistic Regression, Support Vector Machine, XGBoost, and Random Forest. For our project, and we will also perform text processing using techniques like TFIDF, Stemming, Lemmatization, Stopford removal, etc., on the raw review text to generate features.
 
 # Conclusion and Recommendations
 
