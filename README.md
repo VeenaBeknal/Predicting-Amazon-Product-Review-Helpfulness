@@ -1,5 +1,3 @@
-# AmazonProductReviewHelpfulnessss
-This repository is for project Harnessing Helpfulness: Amazon Product Reviews to Elevate Marketplace Experience.
 # Harnessing Helpfulness: Amazon Product Reviews to Elevate Marketplace Experience
 
 # Overview of Project
