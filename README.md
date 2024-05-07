@@ -46,7 +46,7 @@ Another approach we explored was to use sample weights to offset the imbalance i
 
 `Cellphone_and_Accessories_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for cellphones & accesories category
 
-`Tools_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for tools & home improvement category
+`Tools_SuperSet_Textmining_Modeling_Final.ipynb` : This file contains the Data preprocessing, data transformation, and modeling for tools & home improvement category
 
 `Appliances_Pickle_Files.zip` : Pickle files for appliances category
 
@@ -54,7 +54,7 @@ Another approach we explored was to use sample weights to offset the imbalance i
 
 `Cellphone_Pickle_Files.zip` : Pickle files for cellphone and accessories category
 
-`Tools_Pickle_Files.zip` : Pickle files for tools and home improvement category
+`Tools_SuperSet_Modeling_pickles.zip` : Pickle files for tools and home improvement category
 
 `Demo_file_all_categories.ipynb` : This is a demo file to run the models using pickle files
 
